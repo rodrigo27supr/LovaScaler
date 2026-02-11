@@ -1,6 +1,6 @@
 # LovaScaler (En desarrollo)
 
-**Aviso** Este proyecto está empezando. Soy un estudiante y estoy construyendo esta herramienta desde para aprender.
+**Aviso** Este proyecto está empezando. Soy un estudiante y estoy construyendo esta herramienta para aprender.
 
 ### Estado actual:
 - Entorno de Python configurado.
