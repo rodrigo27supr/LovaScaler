@@ -17,7 +17,7 @@ La aplicación ha alcanzado su versión funcional. Actualmente es capaz de proce
 ## Requisitos técnicos
 
 Para que el programa funcione correctamente en un entorno local, es necesario contar con:
-- Python 3.10 o superior.
+- Python 3.10 o superior
 - Librerías: customtkinter, pillow.
 - El ejecutable `realesrgan-ncnn-vulkan.exe` y su carpeta de modelos deben estar presentes en el directorio `bin`.
 
