@@ -5,3 +5,9 @@ bin/
 LovaScaler/bin/
 
 .vscode/
+
+build/
+dist/
+*.spec
+
+config.json
