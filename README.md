@@ -36,3 +36,9 @@ Para lanzarlo desde el código fuente, necesitas:
 * `src/`: Contiene el código fuente principal.
 * `logo/`: Iconos y recursos visuales de la aplicación.
 * `logoScaler.ico`: Icono oficial del programa.
+
+## Historial de versiones
+
+* **v2.0 (Versión actual)**: Reescritura completa del código. Implementación de sistema de colas, vista previa en vivo, barra de progreso y persistencia de configuración. Añadido icono profesional y gestión de nombres duplicados.
+* **v1.5**: Añadida interfaz gráfica con CustomTkinter y soporte para procesamiento por lotes.
+* **v1.0**: Primera versión funcional. Script básico para escalado de imágenes individuales mediante consola y motor Real-ESRGAN.
