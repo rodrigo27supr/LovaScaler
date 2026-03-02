@@ -7,7 +7,7 @@ LovaScaler Pro is a Windows desktop application for AI image upscaling. It uses 
 ## Download
 
 Get the ready-to-use executable version here:
- **[Download LovaScaler Pro v2.0 (Mediafire)](https://www.mediafire.com/file/im4pt8plrzz0xbz/LovaScaler_Pro_2.0.zip/file)**
+ **[Download LovaScaler Pro v2.0 (Mediafire)](https://www.mediafire.com/file/dklmsi721yici67/LovaScaler_Pro_2.0.zip/file)**
 
 ---
 
