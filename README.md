@@ -2,6 +2,13 @@
 
 LovaScaler Pro es un programa para Windows que utiliza inteligencia artificial (Real-ESRGAN) para ampliar tus imágenes hasta 4 veces su tamaño original sin que se vean pixeladas ni pierdan nitidez.
 
+## Descarga / Download
+
+Puedes bajar la versión lista para usar desde aquí:
+ **[Descargar LovaScaler Pro v2.0 (Mediafire)](https://www.mediafire.com/file/im4pt8plrzz0xbz/LovaScaler_Pro_2.0.zip/file)**
+
+---
+
 ## Lo nuevo en esta versión
 
 Hemos mejorado el programa para que sea más estable y cómodo de usar:
@@ -17,6 +24,20 @@ Hemos mejorado el programa para que sea más estable y cómodo de usar:
 * **Procesamiento automático**: Selecciona una carpeta completa y el programa escalará todas las imágenes que encuentre de forma seguida.
 * **Seguridad de archivos**: Si en el destino ya existe una foto con el mismo nombre, el programa le añade un número al final automáticamente para no borrar tus fotos por error.
 * **Modos de IA**: Incluye un modo específico para fotos reales y otro optimizado para dibujos o anime.
+
+---
+
+## English Version
+
+**LovaScaler Pro** is a Windows desktop application for AI image upscaling. It uses the **Real-ESRGAN** engine to achieve 4x enlargement with professional quality.
+
+### Key Features
+* **Async Processing**: UI stays responsive during tasks.
+* **Live Preview**: Real-time thumbnail monitoring of the current process.
+* **Safety First**: Intelligent file naming to prevent overwriting existing files.
+* **Path Persistence**: Remembers your last used folders.
+
+---
 
 ## Cómo usarlo
 
@@ -39,6 +60,9 @@ Para lanzarlo desde el código fuente, necesitas:
 
 ## Historial de versiones
 
-* **v2.0 (Versión actual)**: Reescritura completa del código. Implementación de sistema de colas, vista previa en vivo, barra de progreso y persistencia de configuración. Añadido icono profesional y gestión de nombres duplicados.
-* **v1.5**: Añadida interfaz gráfica con CustomTkinter y soporte para procesamiento por lotes.
-* **v1.0**: Primera versión funcional. Script básico para escalado de imágenes individuales mediante consola y motor Real-ESRGAN.
+* **v2.0 (Actual)**: Reescritura completa. Sistema de colas, vista previa, barra de progreso y persistencia. Icono profesional.
+* **v1.5**: Interfaz gráfica con CustomTkinter y procesamiento por lotes.
+* **v1.0**: Script básico inicial por consola.
+
+## Licencia
+Este proyecto está bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más detalles.
