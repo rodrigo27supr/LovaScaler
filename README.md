@@ -7,7 +7,7 @@ LovaScaler Pro es un programa para Windows que utiliza inteligencia artificial (
 ## Descarga
 
 Puedes bajar la versión lista para usar desde aquí:
- **[Descargar LovaScaler Pro v2.0 (Mediafire)](https://www.mediafire.com/file/im4pt8plrzz0xbz/LovaScaler_Pro_2.0.zip/file)**
+ **[Descargar LovaScaler Pro v2.0 (Mediafire)](https://www.mediafire.com/file/dklmsi721yici67/LovaScaler_Pro_2.0.zip/file)**
 
 ---
 
