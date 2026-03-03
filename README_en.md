@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="logo/logoScaler.png" alt="Logo LovaScaler" width="250">
+</div>
+
 *[Leer en Español](README.md)*
 
 # LovaScaler Pro v2.0
