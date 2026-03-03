@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo/lovaScaler.png" alt="Logo LovaScaler" width="250">
+  <img src="logo/logoScaler.png" alt="Logo LovaScaler" width="250">
 </div>
 
 *[Read this in English](README_en.md)*
